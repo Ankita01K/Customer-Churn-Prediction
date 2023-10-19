@@ -5,7 +5,11 @@ Customer churn affects profitability, especially in industries where revenues ar
 
 **Therefore, customer churn analysis is essential as it can help a business:**
 
-**Identify problems in its services (e.g. poor quality product/service, poor customer support, wrong target audience, etc.), and**
+**Identify problems in its services (e.g. poor quality product/service, poor customer support, wrong target audience, etc.),and**
+
 **Make correct strategic decisions that would lead to higher customer satisfaction and, consequently, higher customer retention.**
 
 **A range of machine learning techniques, including logistic regression, decision trees, random forests, support vector machines, and neural networks, are widely employed in the prediction of customer churn. These algorithms analyze historical customer data and pertinent characteristics to develop models capable of effectively categorizing customers as either churners or non-churners.**
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
